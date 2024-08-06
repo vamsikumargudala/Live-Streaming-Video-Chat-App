@@ -1,4 +1,4 @@
-# LW-Task-3
+# Live Streaming Video Chat App
 
 Task Description 📄
 
